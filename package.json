@@ -1,0 +1,24 @@
+{
+  "name": "vocallytest",
+  "version": "1.0.0",
+  "description": "Interview assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhuvnesh996/vocallytest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhuvnesh996/vocallytest/issues"
+  },
+  "homepage": "https://github.com/bhuvnesh996/vocallytest#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.10.0"
+  }
+}
