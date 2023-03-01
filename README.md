@@ -21,9 +21,18 @@ Book-BookName,Author,Description
 
 
 Api end-point 
+
+
+
+
 ############public routes #############
 1. /api/user/register  for signup the use
 2. /api/user/login   for auth 
+
+
+
+
+
 
 ######### private routes ###################
 3. /api/book/addbook to add book in database
